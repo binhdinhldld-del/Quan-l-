@@ -1,0 +1,8 @@
+{
+  "name": "Quản lý Nhân sự Liên đoàn Lao động Gia Lai",
+  "description": "Hệ thống quản lý thông tin nhân sự Liên đoàn Lao động tỉnh Gia Lai với chức năng phân quyền, thống kê trực quan, xuất dữ liệu Excel/PDF/CSV, nhật ký hệ thống và sao lưu tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
